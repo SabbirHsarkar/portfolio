@@ -168,3 +168,23 @@ main{
 {
     margin-top: 50px;
 }
+
+/* footer style */
+.footer-column{
+    padding: 130px 230px;
+    gap: 50px;
+}
+
+.footer-bg{
+    background-color:#FFF8F3 ;
+    display: flex;
+}
+footer{
+    margin-top: 50px;
+}
+
+footer input[type="text"]{
+    height:64px;
+    border-radius: 5px;
+    background-color: white;
+}
